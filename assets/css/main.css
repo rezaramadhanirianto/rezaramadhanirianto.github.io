@@ -1,0 +1,46 @@
+.carousel-area .tns-nav button:hover, .carousel-area .tns-nav button.tns-nav-active {
+  background: #fff;
+}
+
+.font-thin {
+  font-weight: 100;
+}
+
+.my-image{
+  max-width: 30vh;
+  max-height: 30vh;
+}
+
+.tech-image{
+  max-width: 10vh;
+  max-height: 10vh;
+  min-width: 10vh;
+  min-height: 10vh;
+}
+
+.img-experience{
+  max-width: 30vh;
+  max-height: 30vh;
+  /* /* min-width: 30vh; */
+  min-height: 30vh; 
+
+} 
+
+.bg-image{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/back.jpeg');
+  height: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  filter: brightness(40%);
+}
+
+.font-white{
+  color: #fff;
+}
+
+.font-landing{
+  color: #9e9e9e;
+}
+/*# sourceMappingURL=main.css.map */
